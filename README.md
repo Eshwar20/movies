@@ -8,9 +8,6 @@ Welcome to the Movie Review Application! This project is a backend part that all
 
 - **Java with Spring Boot Backend:** The backend of the application is implemented in Java using the Spring Boot framework. It handles the business logic, interacts with the database, and serves as the API for the frontend.
 
-- **React Frontend:** The frontend is built using React, providing a responsive and interactive user interface for browsing movies and submitting reviews.
-
-- **Loosely Coupled Architecture:** The application follows a loosely coupled architecture, enabling the client and server to evolve independently. This separation of concerns allows for easier maintenance, updates, and scalability.
 
 ## Getting Started
 
