@@ -1,12 +1,12 @@
 # Movie Review Application
 
-Welcome to the Movie Review Application! This project is a backend part that allows users to review movies. The application is built using MongoDB for the database, Java with Spring Boot for the backend, and React for the frontend. The architecture of the application emphasizes a separation of concerns, allowing the client and server code to evolve independently.
+Welcome to the Movie Review Application! This project is a backend part that allows users to review movies. The application is built using MongoDB for the database, Java with Spring Boot for the backend The architecture of the application emphasizes a separation of concerns, allowing the client and server code to evolve independently.
 
 ## Features
 
 - **MongoDB Database:** The application uses MongoDB as its database to store movie information and user reviews.
 
-- **Java with Spring Boot Backend:** The backend of the application is implemented in Java using the Spring Boot framework. It handles the business logic, interacts with the database, and serves as the API for the frontend.
+- **Java with Spring Boot Backend:** The backend of the application is implemented in Java using the Spring Boot framework. It handles the business logic, interacts with the database, and serves as the API 
 
 
 ## Getting Started
